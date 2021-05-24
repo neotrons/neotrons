@@ -12,5 +12,4 @@ Programar es mi pasión y también mi profesión. Inicie programando en 2011 y m
 
 ### Pongámonos en contacto:
 
-* LinkedIn: [@jcramireztello](https://www.linkedin.com/in/jcramireztello/)
-* Twitter: [@jcramireztello](https://twitter.com/jcramireztello)
+* Visita mi CodeTree donde puedes ver mis redes: [@jcramireztello](https://codtree.com/jcramireztello)
